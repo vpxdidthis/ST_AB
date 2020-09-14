@@ -1,7 +1,7 @@
 div.autoBoot {
-  background-color: yellow;
+  background-color: rgb(29, 34, 40);
   width: 100%;
-  height: 50px;
+  height: 200px;
   position: relative;
   bottom: -15px;
 }
